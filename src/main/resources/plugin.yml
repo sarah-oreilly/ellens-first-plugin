@@ -1,4 +1,4 @@
-name: EllensFirstPlugin
-main: edu.mills.cs180a.ellensfirstplugin.EllensFirstPlugin
+name: SarahsFirstPlugin
+main: edu.mills.cs180a.sarahsfirstplugin.SarahsFirstPlugin
 version: 0.0.1
 api-version: 1.16
